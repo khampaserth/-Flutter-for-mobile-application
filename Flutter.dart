@@ -1,5 +1,5 @@
 
-//======== This program, recieved upter join course with "Uncle-Engineering Course name " KBTG Basic Mobile Application" ===========//
+//======== This program recieved upter join course with "Uncle-Engineering Course name " KBTG Basic Mobile Application" ===========//
 
 
 import 'package:flutter/material.dart';
